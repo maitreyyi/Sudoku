@@ -8,7 +8,7 @@ This project was done in-class (CS-171) and it involves a sophisticated Sudoku s
 - 25x25 boards with at least 30 given values,
   all within a 3-minute time frame, achieving 100% accuracy.
 
-  Boards difficulty is classified by the size of board and given values:
+Boards difficulty is classified by the size of board and given values:
 - Easy: P = Q = 3, N = 9  with 7 given values
 - Intermediate: P = 3, Q = 4, N = 12 with 11 given values
 - Hard: P = Q = 4, N = 16 with 20 given values
