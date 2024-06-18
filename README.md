@@ -42,7 +42,7 @@ Boards difficulty is classified by the size of board and given values:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/maitreyyi/Sudoku.git
+   git clone https://github.com/maitreyyi/Sudoku-Solver.git
    cd Sudoku-Python-Shell
    ```
 
